@@ -32,9 +32,11 @@ ir
 ![image](https://github.com/user-attachments/assets/88823b30-bd8d-43cd-8748-b7693f5eb18e)
 
 ir.describe()
+
 ![image](https://github.com/user-attachments/assets/c3d69d84-3e8c-4d50-88c0-3995fafc2441)
 
 sns.boxplot(x='sepal_width',data=ir)
+
 ![image](https://github.com/user-attachments/assets/62c76153-0237-48ef-8de9-bbeceadc59eb)
 
 c1=ir.sepal_width.quantile(0.25)
